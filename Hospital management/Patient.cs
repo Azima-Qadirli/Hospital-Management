@@ -1,19 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hospital_management
 {
-    public class Patient:Entity
+    public class Patient : Entity
     {
-
-        public Patient(string username,string password):base(username,password)
+        public Patient(string username, string password, string name, string surname) : base(username, password, name, surname)
         {
-            
-        }
-        public List<TestAnalysis> Analysis { get; set; }=new List<TestAnalysis>();
 
+        }
+        public Doctor AssignedDoctor { get; set; }
+        public List<TestAnalysis> Analysis { get; set; } = new List<TestAnalysis>();
     }
 }

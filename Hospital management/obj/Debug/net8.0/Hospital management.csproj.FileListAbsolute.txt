@@ -12,3 +12,4 @@ C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\ob
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\Hospital management.pdb
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\Hospital management.genruntimeconfig.cache
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\ref\Hospital management.dll
+C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\Hospital management.sourcelink.json

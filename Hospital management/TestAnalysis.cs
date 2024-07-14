@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hospital_management
 {
@@ -11,13 +7,18 @@ namespace Hospital_management
         public int Leukocyte { get; set; }
         public int Erythrocyte { get; set; }
         public int Creatine { get; set; }
-        public DateTime Date { get; set; } 
-        public TestAnalysis(int leukocyte,int erythrocyte,int creatine)
+        public DateTime Date { get; set; }
+        public Patient Patient { get; set; }
+        public Doctor Doctor { get; set; }
+
+        public TestAnalysis(int leukocyte, int erythrocyte, int creatine, Doctor doctor, Patient patient)
         {
-            Leukocyte= leukocyte;
-            Erythrocyte=erythrocyte;
-            Creatine= creatine;
-            Date=DateTime.Now;
+            Leukocyte = leukocyte;
+            Erythrocyte = erythrocyte;
+            Creatine = creatine;
+            Date = DateTime.Now;
+            Patient = patient;
+            Doctor = doctor;
         }
     }
 }

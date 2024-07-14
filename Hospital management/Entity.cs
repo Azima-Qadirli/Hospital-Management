@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hospital_management
 {
@@ -10,10 +6,15 @@ namespace Hospital_management
     {
         public string Username { get; set; }
         public string Password { get; set; }
-        public Entity(string username,string password)
+        public string Name { get; set; }
+        public string Surname { get; set; }
+
+        public Entity(string username, string password, string name, string surname)
         {
             Username = username;
             Password = password;
+            Name = name;
+            Surname = surname;
         }
     }
 }
