@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\test\\.nuget\\packages\\": {}
+    "C:\\Users\\Nijat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Hospital management.csproj",
+      "projectUniqueName": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Hospital management.csproj",
       "projectName": "Hospital management",
-      "projectPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Hospital management.csproj",
-      "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\obj\\",
+      "projectPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Hospital management.csproj",
+      "packagesPath": "C:\\Users\\Nijat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\test\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nijat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

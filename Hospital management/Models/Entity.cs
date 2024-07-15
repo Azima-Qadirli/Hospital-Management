@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hospital_management
+namespace Hospital_management.Models
 {
     public class Entity
     {

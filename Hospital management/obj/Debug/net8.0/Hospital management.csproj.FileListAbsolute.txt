@@ -13,3 +13,18 @@ C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\ob
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\Hospital management.genruntimeconfig.cache
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\ref\Hospital management.dll
 C:\Users\test\OneDrive\Desktop\c# Jet\Hospital management\Hospital management\obj\Debug\net8.0\Hospital management.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\bin\Debug\net8.0\Hospital management.exe
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\bin\Debug\net8.0\Hospital management.deps.json
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\bin\Debug\net8.0\Hospital management.runtimeconfig.json
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\bin\Debug\net8.0\Hospital management.dll
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\bin\Debug\net8.0\Hospital management.pdb
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.AssemblyInfoInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.AssemblyInfo.cs
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.sourcelink.json
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.dll
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\refint\Hospital management.dll
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.pdb
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\Hospital management.genruntimeconfig.cache
+C:\Users\Nijat\OneDrive\Desktop\TEst\Hospital-ManagementEzime\Hospital management\obj\Debug\net8.0\ref\Hospital management.dll

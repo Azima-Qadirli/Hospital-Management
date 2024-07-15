@@ -1,4 +1,5 @@
 ﻿using System;
+using Hospital_management.Models;
 
 namespace Hospital_management
 {

@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\",
+  "WorkspaceRootPath": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\hospital management\\hospital management\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\hospital management\\hospital management\\testanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\testanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\hospital management\\hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\hospital management\\hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\test\\onedrive\\desktop\\c# jet\\hospital management\\hospital management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\services\\abstractions\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\services\\abstractions\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\services\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\services\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\services\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\services\\abstractions\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\services\\abstractions\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\models\\testanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\models\\testanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|c:\\users\\nijat\\onedrive\\desktop\\test\\hospital-managementezime\\hospital management\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A3BA6F-22FC-4E69-A3E1-39CA08BF868E}|Hospital management\\Hospital management.csproj|solutionrelative:hospital management\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +50,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Services\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Hospital management\\Services\\Interfaces\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:48:41.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Services\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "Hospital management\\Services\\Interfaces\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:48:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Services\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "Hospital management\\Services\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:48:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Abstractions\\PatientService.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Services\\Abstractions\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Abstractions\\PatientService.cs",
+              "RelativeToolTip": "Hospital management\\Services\\Abstractions\\PatientService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwJUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:42:32.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Abstractions\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Services\\Abstractions\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Services\\Abstractions\\DoctorService.cs",
+              "RelativeToolTip": "Hospital management\\Services\\Abstractions\\DoctorService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:39:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Doctor.cs",
+              "RelativeToolTip": "Hospital management\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:38:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Entity.cs",
-              "RelativeDocumentMoniker": "Hospital management\\Entity.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Entity.cs",
-              "RelativeToolTip": "Hospital management\\Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Entity.cs",
+              "RelativeToolTip": "Hospital management\\Models\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T12:34:40.632Z",
@@ -55,25 +153,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TestAnalysis.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\TestAnalysis.cs",
-              "RelativeDocumentMoniker": "Hospital management\\TestAnalysis.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\TestAnalysis.cs",
-              "RelativeToolTip": "Hospital management\\TestAnalysis.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\TestAnalysis.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Models\\TestAnalysis.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\TestAnalysis.cs",
+              "RelativeToolTip": "Hospital management\\Models\\TestAnalysis.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T11:47:06.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Patient.cs",
-              "RelativeDocumentMoniker": "Hospital management\\Patient.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Patient.cs",
-              "RelativeToolTip": "Hospital management\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital management\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Models\\Patient.cs",
+              "RelativeToolTip": "Hospital management\\Models\\Patient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T10:38:33.547Z",
@@ -81,29 +179,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Doctor.cs",
-              "RelativeDocumentMoniker": "Hospital management\\Doctor.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Doctor.cs",
-              "RelativeToolTip": "Hospital management\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T10:35:43.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Program.cs",
               "RelativeDocumentMoniker": "Hospital management\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\OneDrive\\Desktop\\c# Jet\\Hospital management\\Hospital management\\Program.cs",
+              "ToolTip": "C:\\Users\\Nijat\\OneDrive\\Desktop\\TEst\\Hospital-ManagementEzime\\Hospital management\\Program.cs",
               "RelativeToolTip": "Hospital management\\Program.cs",
-              "ViewState": "AQIAAA8BAAAAAAAAAAAwwCIBAACuAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T10:32:09.446Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

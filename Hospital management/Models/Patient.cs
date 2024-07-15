@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Hospital_management
+namespace Hospital_management.Models
 {
     public class Patient : Entity
     {
